@@ -31,6 +31,12 @@ Este sistema integra três componentes principais:
 - ✅ Dashboard interativo com visualizações e métricas em tempo real
 - ✅ Sistema de scoring híbrido (regras + ML) para detecção de fraudes
 
+### 🌐 Deploy e Recursos
+
+- 🚀 **Deploy da Solução:** [https://sprint4frontend.streamlit.app](https://sprint4frontend.streamlit.app)
+- 🎥 **Vídeo Explicativo:** [https://youtu.be/SyUYkySEhoM](https://youtu.be/SyUYkySEhoM)
+- 📦 **Repositório FrontEnd:** [https://github.com/pazil/Sprint4_FrontEnd](https://github.com/pazil/Sprint4_FrontEnd)
+
 ## 📁 Estrutura do Projeto
 
 ```
