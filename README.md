@@ -386,4 +386,3 @@ Desenvolvido para Sprint4RPA - Sistema HP Anti-Pirataria
 **Última atualização:** Outubro 2024
 
 Para mais informações, consulte o `RELATORIO_FINAL.md` ou abra uma issue no repositório.
-
