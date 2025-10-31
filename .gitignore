@@ -1,0 +1,184 @@
+# Sprint4RPA - .gitignore
+# NOTA: Este .gitignore NÃO ignora pastas data (mantém estrutura)
+
+# ==============================================================================
+# Python
+# ==============================================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ==============================================================================
+# Virtual Environment
+# ==============================================================================
+.venv/
+venv/
+ENV/
+env/
+# Mantém .env.example mas ignora .env (contém secrets)
+.env
+.env.local
+.env.production
+.env.staging
+
+# ==============================================================================
+# IDE
+# ==============================================================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+
+# ==============================================================================
+# OS
+# ==============================================================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ==============================================================================
+# Jupyter Notebook
+# ==============================================================================
+.ipynb_checkpoints/
+*.ipynb
+
+# ==============================================================================
+# Logs e Temporary Files
+# ==============================================================================
+*.log
+logs/
+*.tmp
+*.temp
+temp/
+tmp/
+
+# ==============================================================================
+# API Keys e Secrets
+# ==============================================================================
+secrets.json
+config.json
+*.key
+*.pem
+
+# ==============================================================================
+# Model Files (grandes, podem ser ignorados se necessário)
+# ==============================================================================
+# Descomente se quiser ignorar modelos grandes
+# *.model
+# *.pkl
+# *.joblib
+# models/
+
+# ==============================================================================
+# Cache
+# ==============================================================================
+.cache/
+.mypy_cache/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ==============================================================================
+# Output Directories (mantém estrutura mas ignora conteúdo grande)
+# ==============================================================================
+output/
+results/
+reports/
+visualizations/
+
+# ==============================================================================
+# Large Files (descomente se necessário)
+# ==============================================================================
+# *.zip
+# *.tar.gz
+# *.rar
+# *.7z
+
+# ==============================================================================
+# Arquivos de Sistema Específicos
+# ==============================================================================
+# Windows
+$RECYCLE.BIN/
+*.lnk
+
+# Mac
+.AppleDouble
+.LSOverride
+
+# ==============================================================================
+# Weather de Mídia (pode ser ignorado se muito grande)
+# ==============================================================================
+# Descomente se não quiser versionar imagens grandes
+# *.jpg
+# *.jpeg
+# *.png
+# *.gif
+# *.bmp
+# *.tiff
+# *.webp
+
+# ==============================================================================
+# NOTA IMPORTANTE: DATA DIRECTORIES
+# ==============================================================================
+# As pastas data/ NÃO são ignoradas globalmente
+# Isso permite versionar a estrutura e arquivos essenciais
+# Arquivos muito grandes devem ser adicionados manualmente ao .gitignore
+# ou usar Git LFS (Large File Storage)
+
+# Exemplos de exclusões específicas dentro de data/:
+# data/script_*/dados_temporarios/
+# data/script_*/backup/
+# Selenium/data/dados_extraidos/lote/*.json  # Se muito grandes
+# Selenium/data/dados_extraidos/produto_especifico/*.json  # Se muito grandes
+
+# ==============================================================================
+# Arquivos de Backup
+# ==============================================================================
+*_backup_*.csv
+*_backup_*.json
+*.bak
+*.backup
+
+# ==============================================================================
+# WebDriver (gerenciado automaticamente)
+# ==============================================================================
+chromedriver
+geckodriver
+msedgedriver
+
+# ==============================================================================
+# Arquivos Temporários de Processamento
+# ==============================================================================
+*.lock
+*.pid
+*.seed
+*.pid.lock
+

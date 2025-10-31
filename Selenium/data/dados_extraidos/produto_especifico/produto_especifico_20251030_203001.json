@@ -1,0 +1,1323 @@
+{
+  "busca_info": {
+    "modo": "produto_especifico",
+    "timestamp": "20251030_203001",
+    "url_produto": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949",
+    "produto_extraido": true,
+    "total_reviews_extraidos": 50,
+    "produto_id": "MLB37822949",
+    "produto_titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis"
+  },
+  "produto": {
+    "id": "MLB37822949",
+    "titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+    "link": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949",
+    "preco": "109",
+    "preco_original": "",
+    "desconto": "",
+    "vendedor": "DT20250325164552",
+    "seller_id": "2350151887",
+    "reputation_level": "5_green",
+    "power_seller_status": "silver",
+    "rating_medio": 4.7,
+    "total_reviews": 258,
+    "rating_5_estrelas": 222,
+    "rating_4_estrelas": 22,
+    "rating_3_estrelas": 2,
+    "rating_2_estrelas": 1,
+    "rating_1_estrela": 9,
+    "reviews_com_texto": 49,
+    "reviews_com_imagens": 0,
+    "imagem_url": "https://http2.mlstatic.com/D_NQ_NP_647470-MLA95835431717_102025-O.webp",
+    "frete_gratis": true,
+    "categoria": "",
+    "marca": "HP",
+    "condicao": "Novo",
+    "disponibilidade": "https://schema.org/InStock",
+    "quantidade_vendida": "+1000",
+    "reviews_detalhadas": [],
+    "dados_brutos": {
+      "json_ld": {
+        "name": "Cartucho Hp 667xl Preto 8,5ml",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_647470-MLA95835431717_102025-O.webp",
+        "offers": {
+          "price": 109,
+          "availability": "https://schema.org/InStock",
+          "url": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949",
+          "@type": "Offer",
+          "priceCurrency": "BRL",
+          "priceValidUntil": "2025-11-02",
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "shippingRate": {
+              "value": 0,
+              "currency": "BRL",
+              "@type": "MonetaryAmount"
+            },
+            "shippingOrigin": {
+              "@type": "DefinedRegion",
+              "addressCountry": "BR",
+              "addressRegion": "Rio de Janeiro"
+            },
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "BR",
+              "addressRegion": "São Paulo",
+              "postalCode": "05211120"
+            },
+            "deliveryTime": {
+              "@type": "ShippingDeliveryTime",
+              "handlingTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 11,
+                "maxValue": 14,
+                "unitCode": "DAY"
+              },
+              "transitTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 11,
+                "maxValue": 14,
+                "unitCode": "DAY"
+              }
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "applicableCountry": "BR",
+            "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 30,
+            "returnMethod": "https://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/FreeReturn"
+          }
+        },
+        "review": [
+          {
+            "author": {
+              "name": "Usuário do Mercado Livre",
+              "@type": "Person"
+            },
+            "@type": "Review",
+            "reviewBody": "Só confio nessa loja. Já comprei em outras lojas aqui no ml, mas os cartuchos não eram originais e acabaram muito rápido.\nO ponto triste é que a cada dia que vou comprar está mais caro 😢.",
+            "reviewRating": {
+              "bestRating": 5,
+              "ratingValue": 4,
+              "worstRating": 1
+            }
+          },
+          {
+            "author": {
+              "name": "Usuário do Mercado Livre",
+              "@type": "Person"
+            },
+            "@type": "Review",
+            "reviewBody": "Muito bom.",
+            "reviewRating": {
+              "bestRating": 5,
+              "ratingValue": 5,
+              "worstRating": 1
+            }
+          },
+          {
+            "author": {
+              "name": "Usuário do Mercado Livre",
+              "@type": "Person"
+            },
+            "@type": "Review",
+            "reviewBody": "Veio rápido, gostei.",
+            "reviewRating": {
+              "bestRating": 5,
+              "ratingValue": 5,
+              "worstRating": 1
+            }
+          },
+          {
+            "author": {
+              "name": "Usuário do Mercado Livre",
+              "@type": "Person"
+            },
+            "@type": "Review",
+            "reviewBody": "Ótimos e duram muito.",
+            "reviewRating": {
+              "bestRating": 5,
+              "ratingValue": 5,
+              "worstRating": 1
+            }
+          },
+          {
+            "author": {
+              "name": "Usuário do Mercado Livre",
+              "@type": "Person"
+            },
+            "@type": "Review",
+            "reviewBody": "Produto top.",
+            "reviewRating": {
+              "bestRating": 5,
+              "ratingValue": 5,
+              "worstRating": 1
+            }
+          }
+        ],
+        "description": "Unidades por embalagem: 1. | Conteúdo total em volume: 8.5 mL. | Cor da tinta: Preto. | Unidades por kit: 1. | Formato de venda: Unidade. | Cartucho do tipo original. | Rende 480 páginas | Tinta pigmentada.",
+        "brand": "HP",
+        "sku": "MLB37822949",
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 4.7,
+          "ratingCount": 258,
+          "reviewCount": 88
+        },
+        "itemCondition": "https://schema.org/NewCondition",
+        "productID": "MLB37822949"
+      },
+      "melidata": {
+        "__PRELOADED_STATE__": "<selenium.webdriver.remote.webelement.WebElement (session=\"08795e8498d4dca9fc3126ffe809ad88\", element=\"f.46E840FB2ED175573A8E7F5EEE4CE0CB.d.DEB9DACF7717A971AAE41D97A583A7BC.e.49\")>",
+        "alternative_buying_options": [
+          {
+            "buying_option_id": "NO_INTEREST",
+            "item_id": "MLB4114988011",
+            "listing_type_id": "gold_pro",
+            "position": 1,
+            "price": 110.3,
+            "seller_id": 2512522409,
+            "seller_name": "SUPRYPOINT"
+          },
+          {
+            "buying_option_id": "NEXTDAY_DELIVERY",
+            "item_id": "MLB5216088940",
+            "listing_type_id": "gold_special",
+            "position": 2,
+            "price": 194.7,
+            "seller_id": 167787623,
+            "seller_name": "MegaByteMagazine"
+          }
+        ],
+        "alternatives": [
+          {
+            "buying_option_id": "BEST_INSTALLMENTS",
+            "item_id": "MLB4114988011",
+            "listing_type": "gold_pro",
+            "price": 110.3,
+            "ranking": 1,
+            "selected": false,
+            "type": "alternative"
+          },
+          {
+            "buying_option_id": "BEST_PRICE",
+            "item_id": "MLB4147456821",
+            "listing_type": "gold_special",
+            "price": 109,
+            "ranking": 0,
+            "selected": true,
+            "type": "winner"
+          }
+        ],
+        "available_promotions": [],
+        "bank_discounts": [],
+        "bo_pick_up_conditions": "no_bo_pick_up",
+        "bundle_type": "not_apply",
+        "cac_item": false,
+        "cac_status": "after_dispatch",
+        "card_tooltip_title": "not_apply",
+        "cart_content": true,
+        "catalog_parent_id": "MLB37822948",
+        "catalog_product_id": "MLB37822949",
+        "category_id": "MLB9642",
+        "collapsed_pickers": false,
+        "compats_info": {
+          "clean_title": false,
+          "status": "NOT_SUPPORTED"
+        },
+        "credit_view_components": {
+          "pricing": {
+            "actual_price": 109,
+            "recommended_methods": [
+              {
+                "id": "visa",
+                "installment_amount": 10.76,
+                "installments": 12,
+                "installments_total": 129.12,
+                "is_additional_bank_interest": false,
+                "is_free_installment": false,
+                "is_meliplus_installments": false,
+                "issuer": "CREDIT_CARD_MP",
+                "rank": 1
+              }
+            ],
+            "unit_of_measurement": "not_apply",
+            "with_mercado_credito": false
+          },
+          "tooltip": {
+            "visible": false
+          },
+          "widget": {
+            "visible": false
+          }
+        },
+        "currency_id": "BRL",
+        "deal_ids": [],
+        "domain_id": "MLB-INK_CARTRIDGES",
+        "family_id": "not_apply",
+        "filtered_pdp": {
+          "filters_not_applied": [],
+          "has_filters_not_applied": false,
+          "is_filter_changing_experience_shown": false
+        },
+        "filtered_pdp_alternatives": {
+          "filters_not_applied": [],
+          "has_filters_not_applied": false,
+          "is_filter_changing_experience_shown": false
+        },
+        "free_shipping": true,
+        "gallery": {
+          "max_size": "1200x1171"
+        },
+        "has_full_enhanced_descriptions": false,
+        "has_garex": false,
+        "has_price_per_quantity_shortcuts": false,
+        "has_roda": false,
+        "has_unselected_pickers": false,
+        "highlights": {
+          "id": "MELICHOICE",
+          "melichoice_score": 0
+        },
+        "installations_info": {
+          "coverage": {
+            "avg_reachable_inst_distance": 0,
+            "filter_reasons": [
+              {
+                "filtered_inst": 0
+              }
+            ],
+            "filtered_reachable_inst": 0,
+            "min_inst_distance": 0,
+            "reachable_inst": 0
+          },
+          "not_installable_reasons": [],
+          "status": "NOT_SUPPORTED"
+        },
+        "installment_info": "12",
+        "interstitial": {
+          "buy_now": [
+            {
+              "result": "NOT_AVAILABLE",
+              "type": "MELI_PLUS"
+            },
+            {
+              "reason": "This intervention is not available for this site and device.",
+              "result": "NOT_AVAILABLE",
+              "type": "CREDIT_CARD_MP"
+            },
+            {
+              "result": "NOT_AVAILABLE",
+              "type": "INSTALLATION_SERVICES"
+            },
+            {
+              "reason": "This intervention is not available for this site and device.",
+              "result": "NOT_AVAILABLE",
+              "type": "DOWNLOAD_APP"
+            }
+          ]
+        },
+        "is_cbt_fulfillment_us": false,
+        "is_gift_checked": "not_apply",
+        "is_out_of_coverage": false,
+        "is_prescription_required": false,
+        "item_attribute_brand_id": "49944",
+        "item_attributes": "AVAILABLE_STOCK",
+        "item_condition": "new",
+        "item_id": "MLB4147456821",
+        "item_origins": [],
+        "listing_type_id": "gold_special",
+        "local_pick_up": false,
+        "logistic_type": "drop_off",
+        "mdd_potential_efficiency": "not_apply",
+        "melidata_namespace_available": true,
+        "melidata_utils": "available",
+        "multiple_offer_default_winner_item_id": "MLB4147456821",
+        "multiple_offer_type": "BEST_PRICE",
+        "page_type": "PDP",
+        "pdp_type": "GREEN_WITH_OFFER",
+        "picker_action": "loaded",
+        "power_seller_status": "silver",
+        "preview": {
+          "enabled": false
+        },
+        "price": 109,
+        "pushing_puis": false,
+        "qadb_info": [
+          {
+            "invented": false,
+            "question_id": 13454680734
+          },
+          {
+            "invented": false,
+            "question_id": 13450289729
+          },
+          {
+            "invented": false,
+            "question_id": 13446943022
+          },
+          {
+            "invented": false,
+            "question_id": 13445867490
+          },
+          {
+            "invented": false,
+            "question_id": 13442941450
+          },
+          {
+            "invented": false,
+            "question_id": 13437436366
+          },
+          {
+            "invented": false,
+            "question_id": 13436799019
+          },
+          {
+            "invented": false,
+            "question_id": 13435120335
+          },
+          {
+            "invented": false,
+            "question_id": 13424664383
+          },
+          {
+            "invented": false,
+            "question_id": 13423344337
+          },
+          {
+            "invented": false,
+            "question_id": 13423252478
+          },
+          {
+            "invented": false,
+            "question_id": 13422965612
+          },
+          {
+            "invented": false,
+            "question_id": 13422660962
+          },
+          {
+            "invented": false,
+            "question_id": 13406543219
+          },
+          {
+            "invented": false,
+            "question_id": 13394828492
+          },
+          {
+            "invented": false,
+            "question_id": 13390575069
+          }
+        ],
+        "repurchase": {
+          "shown_items": [],
+          "shown_widget": false
+        },
+        "reputation_level": "5_green",
+        "review_rate": 4,
+        "reviews": {
+          "attributes_quantity": 5,
+          "count": 258,
+          "pictures_quantity": 10,
+          "qualitative_attributes": [],
+          "rate": 4.7,
+          "reviews_with_comment": 88,
+          "summary": {
+            "ai_model": "gpt-4o-2024-08-06",
+            "build_version": "JlDcCOT+Z1moBpsSKuoCQnD2le0dlO3wMO6cBbCc7Kk=",
+            "last_updated": "2025-10-26T05:56:07Z",
+            "likes": 1,
+            "prompt_version": 3.2,
+            "status": "published",
+            "valorization": 1
+          }
+        },
+        "seller_id": 2350151887,
+        "seller_name": "DT20250325164552",
+        "seo": {
+          "seo_coligo_signals_item_group_id": "MLB37822948-product",
+          "seo_experiments": {
+            "experiment_list": [
+              {
+                "executed_successfully": true,
+                "group": "Control",
+                "id": "ozzy",
+                "is_active": false,
+                "is_enabled": false,
+                "should_apply": false
+              }
+            ],
+            "status": "success"
+          },
+          "seo_top_keywords": [
+            {
+              "keyword": "hp 2775",
+              "keyword_source": "MLMA_GRAPH"
+            },
+            {
+              "keyword": "cartucho 2376",
+              "keyword_source": "MLMA_GRAPH"
+            },
+            {
+              "keyword": "cartucho hp 667",
+              "keyword_source": "MLMA_GRAPH"
+            },
+            {
+              "keyword": "cartucho hp 2136",
+              "keyword_source": "MLMA_GRAPH"
+            },
+            {
+              "keyword": "cartucho hp 2676",
+              "keyword_source": "MLMA_GRAPH"
+            },
+            {
+              "keyword": "cartucho hp 3776",
+              "keyword_source": "MLMA_GRAPH"
+            },
+            {
+              "keyword": "cartucho impressora hp 2774",
+              "keyword_source": "MLMA_GRAPH"
+            }
+          ]
+        },
+        "shipping_conditions": "free_ratio",
+        "shipping_mode": "me2",
+        "shipping_promise": {
+          "address_options": [
+            {
+              "custom_offset": {
+                "id": "a7e40833-100a-4970-becc-52258dc8ced7",
+                "offset_days": 2
+              },
+              "delivery_lower_bound": {
+                "date": "2025-11-10T03:00:00Z",
+                "days": 11
+              },
+              "delivery_upper_bound": {
+                "date": "2025-11-13T03:00:00Z",
+                "days": 14
+              },
+              "handling_days": 24,
+              "logistic_type": "drop_off",
+              "method_type": "standard",
+              "offset_days": 3,
+              "origins": [
+                {
+                  "city": {
+                    "id": "BR-RJ-01",
+                    "name": "Rio de Janeiro"
+                  },
+                  "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                  },
+                  "item_quantity": 1,
+                  "state": {
+                    "id": "BR-RJ",
+                    "name": "Rio de Janeiro"
+                  },
+                  "suboperation": "",
+                  "type": "SHIPPING_ADDRESS",
+                  "value": "1532797398"
+                }
+              ],
+              "pay_before": "2025-10-31T15:00:00Z",
+              "price": {
+                "amount": 0,
+                "currency_id": "BRL",
+                "is_loyalty_discount": false,
+                "scope": "N1"
+              },
+              "shipping_days": 144,
+              "shipping_option_id": 139707941
+            },
+            {
+              "custom_offset": {
+                "id": "3a93521c-a9bb-471a-956f-26ec0bc07b66",
+                "offset_days": 1
+              },
+              "delivery_lower_bound": {
+                "date": "2025-11-04T03:00:00Z",
+                "days": 5
+              },
+              "delivery_upper_bound": {
+                "date": "2025-11-07T03:00:00Z",
+                "days": 8
+              },
+              "handling_days": 24,
+              "logistic_type": "drop_off",
+              "method_type": "sedex",
+              "offset_days": 3,
+              "origins": [
+                {
+                  "city": {
+                    "id": "BR-RJ-01",
+                    "name": "Rio de Janeiro"
+                  },
+                  "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                  },
+                  "item_quantity": 1,
+                  "state": {
+                    "id": "BR-RJ",
+                    "name": "Rio de Janeiro"
+                  },
+                  "suboperation": "",
+                  "type": "SHIPPING_ADDRESS",
+                  "value": "1532797398"
+                }
+              ],
+              "pay_before": "2025-10-31T15:00:00Z",
+              "price": {
+                "amount": 8.99,
+                "currency_id": "BRL",
+                "is_loyalty_discount": false,
+                "scope": "N1"
+              },
+              "shipping_days": 48,
+              "shipping_option_id": 3017351129
+            }
+          ],
+          "agency_options": [],
+          "billable_weight": "not_apply",
+          "destination": "05211120",
+          "destination_data": {
+            "city": {
+              "id": "BR-SP-44",
+              "name": "São Paulo"
+            },
+            "country": {
+              "id": "BR",
+              "name": "Brasil"
+            },
+            "state": {
+              "id": "BR-SP",
+              "name": "São Paulo"
+            },
+            "zip_code": "05211120"
+          },
+          "highlight_info_summaries": [],
+          "next_day_unified_with_mdd": false,
+          "shipping_failure_message": "N/A",
+          "showing_cart_promise": false,
+          "showing_melitag": false,
+          "showing_promises": [],
+          "showing_upselling": false
+        },
+        "shop_a_gift_format": "not_apply",
+        "showing_puis": false,
+        "stock_type": "normal",
+        "store_pick_up": false,
+        "subtitle_types": [
+          "MERCADO_LEADER"
+        ],
+        "tags": [
+          "kvs_primary",
+          "immediate_payment",
+          "cart_eligible",
+          "user_product_unify"
+        ],
+        "user_product_id": "not_apply",
+        "user_type": "not_apply",
+        "vertical": "core"
+      },
+      "window_data": {
+        "document_title": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+        "jquery_available": false,
+        "location_href": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949",
+        "location_pathname": "/cartucho-hp-667xl-preto-85ml/p/MLB37822949",
+        "melidata_available": true,
+        "react_available": false
+      },
+      "timestamp": "2025-10-30T20:30:01.709089"
+    },
+    "descricao": "PRINCIPAIS CARACTERÍSTICAS\n\nImprima documentos diários com texto claros e gráficos nítidos, mantendo baixos os custos de impressão com cartuchos de tinta HP.\n\nOs cartuchos de tinta HP são projetados para evitar danos na cabeça de impressão e prontos para carregar rapidamente.\n\nImprima o que você precisa enquanto reduz seu impacto no meio ambiente. Escolha um cartucho de baixo custo fabricado com até 70% de conteúdo reciclado e obtenha reciclagem de cartucho através do HP Planet Partners.\n\nDESCRIÇÃO DO PRODUTO\n\nPARA UTILIZAÇÃO NAS SEGUINTES IMPRESSORAS\n\nImpressora HP Deskjet Ink Advantage 2376\n\nImpressora HP Deskjet Ink Advantage 2774\nImpressora HP Deskjet Ink Advantage 2776\nImpressora HP Deskjet Ink Advantage 6476\n\nCÓDIGO DO CARTUCHO\n\n3YM81AL | HP 667XL\n\nQUANTIDADE\n\n8,5 ml 480 páginas imprimindo páginas com 5% de cobertura\n\nCOR\n\nBlack (Preto)\n\nTECNOLOGIA\n\nJato de Tinta",
+    "linha": "DesignJet",
+    "modelo": "Black 3YM81AL",
+    "modelo_alfanumerico": "3ym81al",
+    "tipo_cartucho": "Original",
+    "volume": "8,5 mL",
+    "cor_tinta": "Preto",
+    "caracteristicas": {
+      "marca": "HP",
+      "linha": "DesignJet",
+      "modelo": "Black 3YM81AL",
+      "modelo alfanumérico": "3ym81al",
+      "tipo de cartucho": "Original",
+      "conteúdo total em volume": "8,5 mL",
+      "cor da tinta": "Preto"
+    },
+    "rating_estrelas": 4.7,
+    "distribuicao_estrelas": {
+      "5_estrelas": 222,
+      "4_estrelas": 22,
+      "3_estrelas": 2,
+      "2_estrelas": 1,
+      "1_estrelas": 9
+    },
+    "quantidade_vendida_texto": "+1000",
+    "quantidade_vendida_aria_label": "Novo. Mais de 1000 vendidos",
+    "todos_reviews": [
+      {
+        "review_number": 1,
+        "rating": 4,
+        "date": "04 jul. 2025",
+        "text": "Só confio nessa loja. Já comprei em outras lojas aqui no ml, mas os cartuchos não eram originais e acabaram muito rápido. O ponto triste é que a cada dia que vou comprar está mais caro 😢.",
+        "likes": 3,
+        "images": [],
+        "image_count": 0,
+        "has_images": false,
+        "produto_id": "MLB37822949",
+        "produto_titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+        "produto_url": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949"
+      },
+      {
+        "review_number": 2,
+        "rating": 5,
+        "date": "08 dez. 2024",
+        "text": "Muito bom.",
+        "likes": 1,
+        "images": [],
+        "image_count": 0,
+        "has_images": false,
+        "produto_id": "MLB37822949",
+        "produto_titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+        "produto_url": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949"
+      },
+      {
+        "review_number": 3,
+        "rating": 5,
+        "date": "22 out. 2025",
+        "text": "Veio rápido, gostei.",
+        "likes": 0,
+        "images": [],
+        "image_count": 0,
+        "has_images": false,
+        "produto_id": "MLB37822949",
+        "produto_titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+        "produto_url": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949"
+      },
+      {
+        "review_number": 4,
+        "rating": 5,
+        "date": "28 out. 2025",
+        "text": "Ótimos e duram muito.",
+        "likes": 0,
+        "images": [],
+        "image_count": 0,
+        "has_images": false,
+        "produto_id": "MLB37822949",
+        "produto_titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+        "produto_url": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949"
+      },
+      {
+        "review_number": 5,
+        "rating": 5,
+        "date": "16 out. 2025",
+        "text": "Produto top.",
+        "likes": 0,
+        "images": [],
+        "image_count": 0,
+        "has_images": false,
+        "produto_id": "MLB37822949",
+        "produto_titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+        "produto_url": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949"
+      },
+      {
+        "review_number": 6,
+        "rating": 5,
+        "date": "16 out. 2025",
+        "text": "Ok.",
+        "likes": 0,
+        "images": [],
+        "image_count": 0,
+        "has_images": false,
+        "produto_id": "MLB37822949",
+        "produto_titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+        "produto_url": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949"
+      },
+      {
+        "review_number": 7,
+        "rating": 5,
+        "date": "06 out. 2025",
+        "text": "Veio em bom estado.",
+        "likes": 0,
+        "images": [],
+        "image_count": 0,
+        "has_images": false,
+        "produto_id": "MLB37822949",
+        "produto_titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+        "produto_url": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949"
+      },
+      {
+        "review_number": 8,
+        "rating": 5,
+        "date": "02 out. 2025",
+        "text": "Sem texto.",
+        "likes": 0,
+        "images": [],
+        "image_count": 0,
+        "has_images": false,
+        "produto_id": "MLB37822949",
+        "produto_titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+        "produto_url": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949"
+      },
+      {
+        "review_number": 9,
+        "rating": 5,
+        "date": "21 set. 2025",
+        "text": "Ótimo.",
+        "likes": 0,
+        "images": [],
+        "image_count": 0,
+        "has_images": false,
+        "produto_id": "MLB37822949",
+        "produto_titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+        "produto_url": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949"
+      },
+      {
+        "review_number": 10,
+        "rating": 5,
+        "date": "18 set. 2025",
+        "text": "Otimo custo benefício.",
+        "likes": 0,
+        "images": [],
+        "image_count": 0,
+        "has_images": false,
+        "produto_id": "MLB37822949",
+        "produto_titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+        "produto_url": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949"
+      },
+      {
+        "review_number": 11,
+        "rating": 5,
+        "date": "08 set. 2025",
+        "text": "Esse é original.",
+        "likes": 0,
+        "images": [],
+        "image_count": 0,
+        "has_images": false,
+        "produto_id": "MLB37822949",
+        "produto_titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+        "produto_url": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949"
+      },
+      {
+        "review_number": 12,
+        "rating": 5,
+        "date": "30 out. 2025",
+        "text": "Ótimo produto.",
+        "likes": 0,
+        "images": [],
+        "image_count": 0,
+        "has_images": false,
+        "produto_id": "MLB37822949",
+        "produto_titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+        "produto_url": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949"
+      },
+      {
+        "review_number": 13,
+        "rating": 5,
+        "date": "29 out. 2025",
+        "text": "Valeu.",
+        "likes": 0,
+        "images": [],
+        "image_count": 0,
+        "has_images": false,
+        "produto_id": "MLB37822949",
+        "produto_titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+        "produto_url": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949"
+      },
+      {
+        "review_number": 14,
+        "rating": 5,
+        "date": "29 out. 2025",
+        "text": "Ótimo produto.",
+        "likes": 0,
+        "images": [],
+        "image_count": 0,
+        "has_images": false,
+        "produto_id": "MLB37822949",
+        "produto_titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+        "produto_url": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949"
+      },
+      {
+        "review_number": 15,
+        "rating": 4,
+        "date": "28 out. 2025",
+        "text": "Deu certinho. Tô usando.",
+        "likes": 0,
+        "images": [],
+        "image_count": 0,
+        "has_images": false,
+        "produto_id": "MLB37822949",
+        "produto_titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+        "produto_url": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949"
+      },
+      {
+        "review_number": 16,
+        "rating": 5,
+        "date": "25 out. 2025",
+        "text": "Excelente produto, recomendo a todos do ml.",
+        "likes": 0,
+        "images": [],
+        "image_count": 0,
+        "has_images": false,
+        "produto_id": "MLB37822949",
+        "produto_titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+        "produto_url": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949"
+      },
+      {
+        "review_number": 17,
+        "rating": 5,
+        "date": "25 out. 2025",
+        "text": "Top!.",
+        "likes": 0,
+        "images": [],
+        "image_count": 0,
+        "has_images": false,
+        "produto_id": "MLB37822949",
+        "produto_titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+        "produto_url": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949"
+      },
+      {
+        "review_number": 18,
+        "rating": 5,
+        "date": "24 out. 2025",
+        "text": "O cartucho original hp dispensa apresentações, a qualidade da impressão é ótima, e sendo modelo xl, rende muito mais !.",
+        "likes": 0,
+        "images": [],
+        "image_count": 0,
+        "has_images": false,
+        "produto_id": "MLB37822949",
+        "produto_titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+        "produto_url": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949"
+      },
+      {
+        "review_number": 19,
+        "rating": 4,
+        "date": "24 out. 2025",
+        "text": "Bom custo/beneficio.",
+        "likes": 0,
+        "images": [],
+        "image_count": 0,
+        "has_images": false,
+        "produto_id": "MLB37822949",
+        "produto_titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+        "produto_url": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949"
+      },
+      {
+        "review_number": 20,
+        "rating": 5,
+        "date": "23 out. 2025",
+        "text": "Confiável.",
+        "likes": 0,
+        "images": [],
+        "image_count": 0,
+        "has_images": false,
+        "produto_id": "MLB37822949",
+        "produto_titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+        "produto_url": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949"
+      },
+      {
+        "review_number": 21,
+        "rating": 5,
+        "date": "22 out. 2025",
+        "text": "Produto original. Excelente.",
+        "likes": 0,
+        "images": [],
+        "image_count": 0,
+        "has_images": false,
+        "produto_id": "MLB37822949",
+        "produto_titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+        "produto_url": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949"
+      },
+      {
+        "review_number": 22,
+        "rating": 5,
+        "date": "22 out. 2025",
+        "text": "Muito bom.",
+        "likes": 0,
+        "images": [],
+        "image_count": 0,
+        "has_images": false,
+        "produto_id": "MLB37822949",
+        "produto_titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+        "produto_url": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949"
+      },
+      {
+        "review_number": 23,
+        "rating": 5,
+        "date": "21 out. 2025",
+        "text": "Produto bom.",
+        "likes": 0,
+        "images": [],
+        "image_count": 0,
+        "has_images": false,
+        "produto_id": "MLB37822949",
+        "produto_titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+        "produto_url": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949"
+      },
+      {
+        "review_number": 24,
+        "rating": 5,
+        "date": "21 out. 2025",
+        "text": "Excelente produto.",
+        "likes": 0,
+        "images": [],
+        "image_count": 0,
+        "has_images": false,
+        "produto_id": "MLB37822949",
+        "produto_titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+        "produto_url": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949"
+      },
+      {
+        "review_number": 25,
+        "rating": 5,
+        "date": "20 out. 2025",
+        "text": "Ótimo custo benefício.",
+        "likes": 0,
+        "images": [],
+        "image_count": 0,
+        "has_images": false,
+        "produto_id": "MLB37822949",
+        "produto_titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+        "produto_url": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949"
+      },
+      {
+        "review_number": 26,
+        "rating": 4,
+        "date": "19 out. 2025",
+        "text": "Funciona bem, mas volume de tinta é muito pequeno.",
+        "likes": 0,
+        "images": [],
+        "image_count": 0,
+        "has_images": false,
+        "produto_id": "MLB37822949",
+        "produto_titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+        "produto_url": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949"
+      },
+      {
+        "review_number": 27,
+        "rating": 5,
+        "date": "18 out. 2025",
+        "text": "Perfeito pra minha impressora.",
+        "likes": 0,
+        "images": [],
+        "image_count": 0,
+        "has_images": false,
+        "produto_id": "MLB37822949",
+        "produto_titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+        "produto_url": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949"
+      },
+      {
+        "review_number": 28,
+        "rating": 5,
+        "date": "17 out. 2025",
+        "text": "Não tem opção melhor.",
+        "likes": 0,
+        "images": [],
+        "image_count": 0,
+        "has_images": false,
+        "produto_id": "MLB37822949",
+        "produto_titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+        "produto_url": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949"
+      },
+      {
+        "review_number": 29,
+        "rating": 5,
+        "date": "16 out. 2025",
+        "text": "Otimo.",
+        "likes": 0,
+        "images": [],
+        "image_count": 0,
+        "has_images": false,
+        "produto_id": "MLB37822949",
+        "produto_titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+        "produto_url": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949"
+      },
+      {
+        "review_number": 30,
+        "rating": 5,
+        "date": "16 out. 2025",
+        "text": "Ótimo produto.",
+        "likes": 0,
+        "images": [],
+        "image_count": 0,
+        "has_images": false,
+        "produto_id": "MLB37822949",
+        "produto_titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+        "produto_url": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949"
+      },
+      {
+        "review_number": 31,
+        "rating": 5,
+        "date": "15 out. 2025",
+        "text": "Bom produto, durou mais que a maioria que compro aqui no ml.",
+        "likes": 0,
+        "images": [],
+        "image_count": 0,
+        "has_images": false,
+        "produto_id": "MLB37822949",
+        "produto_titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+        "produto_url": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949"
+      },
+      {
+        "review_number": 32,
+        "rating": 5,
+        "date": "13 out. 2025",
+        "text": "Muito bom.",
+        "likes": 0,
+        "images": [],
+        "image_count": 0,
+        "has_images": false,
+        "produto_id": "MLB37822949",
+        "produto_titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+        "produto_url": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949"
+      },
+      {
+        "review_number": 33,
+        "rating": 5,
+        "date": "13 out. 2025",
+        "text": "Excelente.",
+        "likes": 0,
+        "images": [],
+        "image_count": 0,
+        "has_images": false,
+        "produto_id": "MLB37822949",
+        "produto_titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+        "produto_url": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949"
+      },
+      {
+        "review_number": 34,
+        "rating": 5,
+        "date": "12 out. 2025",
+        "text": "Tudo ok.",
+        "likes": 0,
+        "images": [],
+        "image_count": 0,
+        "has_images": false,
+        "produto_id": "MLB37822949",
+        "produto_titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+        "produto_url": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949"
+      },
+      {
+        "review_number": 35,
+        "rating": 5,
+        "date": "11 out. 2025",
+        "text": "Excelente, fácil colocação e funcionou super bem.",
+        "likes": 0,
+        "images": [],
+        "image_count": 0,
+        "has_images": false,
+        "produto_id": "MLB37822949",
+        "produto_titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+        "produto_url": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949"
+      },
+      {
+        "review_number": 36,
+        "rating": 5,
+        "date": "11 out. 2025",
+        "text": "Original recomendo.",
+        "likes": 0,
+        "images": [],
+        "image_count": 0,
+        "has_images": false,
+        "produto_id": "MLB37822949",
+        "produto_titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+        "produto_url": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949"
+      },
+      {
+        "review_number": 37,
+        "rating": 5,
+        "date": "11 out. 2025",
+        "text": "Instalei hoje, o que comprei anterior a esse em entra loja aqui no mercado livre, não durou nada. Aparentemente, tudo certo!.",
+        "likes": 0,
+        "images": [],
+        "image_count": 0,
+        "has_images": false,
+        "produto_id": "MLB37822949",
+        "produto_titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+        "produto_url": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949"
+      },
+      {
+        "review_number": 38,
+        "rating": 5,
+        "date": "11 out. 2025",
+        "text": "Espero que cumpra o prometido.",
+        "likes": 0,
+        "images": [],
+        "image_count": 0,
+        "has_images": false,
+        "produto_id": "MLB37822949",
+        "produto_titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+        "produto_url": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949"
+      },
+      {
+        "review_number": 39,
+        "rating": 5,
+        "date": "09 out. 2025",
+        "text": "Ótimo produto excelente qualidade.",
+        "likes": 0,
+        "images": [],
+        "image_count": 0,
+        "has_images": false,
+        "produto_id": "MLB37822949",
+        "produto_titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+        "produto_url": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949"
+      },
+      {
+        "review_number": 40,
+        "rating": 5,
+        "date": "09 out. 2025",
+        "text": "Tinta acabou rápido de mais, usei 50 folhas por aí.",
+        "likes": 0,
+        "images": [],
+        "image_count": 0,
+        "has_images": false,
+        "produto_id": "MLB37822949",
+        "produto_titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+        "produto_url": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949"
+      },
+      {
+        "review_number": 41,
+        "rating": 5,
+        "date": "09 out. 2025",
+        "text": "Bom.",
+        "likes": 0,
+        "images": [],
+        "image_count": 0,
+        "has_images": false,
+        "produto_id": "MLB37822949",
+        "produto_titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+        "produto_url": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949"
+      },
+      {
+        "review_number": 42,
+        "rating": 5,
+        "date": "08 out. 2025",
+        "text": "Muito bom. Recomendo.",
+        "likes": 0,
+        "images": [],
+        "image_count": 0,
+        "has_images": false,
+        "produto_id": "MLB37822949",
+        "produto_titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+        "produto_url": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949"
+      },
+      {
+        "review_number": 43,
+        "rating": 5,
+        "date": "08 out. 2025",
+        "text": "Bom custo x benefício.",
+        "likes": 0,
+        "images": [],
+        "image_count": 0,
+        "has_images": false,
+        "produto_id": "MLB37822949",
+        "produto_titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+        "produto_url": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949"
+      },
+      {
+        "review_number": 44,
+        "rating": 5,
+        "date": "08 out. 2025",
+        "text": "Muito bom.",
+        "likes": 0,
+        "images": [],
+        "image_count": 0,
+        "has_images": false,
+        "produto_id": "MLB37822949",
+        "produto_titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+        "produto_url": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949"
+      },
+      {
+        "review_number": 45,
+        "rating": 5,
+        "date": "08 out. 2025",
+        "text": "O produto me pareceu bom, estava lacrado e funcionou perfeitamente.",
+        "likes": 0,
+        "images": [],
+        "image_count": 0,
+        "has_images": false,
+        "produto_id": "MLB37822949",
+        "produto_titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+        "produto_url": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949"
+      },
+      {
+        "review_number": 46,
+        "rating": 5,
+        "date": "08 out. 2025",
+        "text": "Produto original.",
+        "likes": 0,
+        "images": [],
+        "image_count": 0,
+        "has_images": false,
+        "produto_id": "MLB37822949",
+        "produto_titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+        "produto_url": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949"
+      },
+      {
+        "review_number": 47,
+        "rating": 5,
+        "date": "08 out. 2025",
+        "text": "Produto de qualidade.",
+        "likes": 0,
+        "images": [],
+        "image_count": 0,
+        "has_images": false,
+        "produto_id": "MLB37822949",
+        "produto_titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+        "produto_url": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949"
+      },
+      {
+        "review_number": 48,
+        "rating": 5,
+        "date": "08 out. 2025",
+        "text": "Ótimo produto de qualidade.",
+        "likes": 0,
+        "images": [],
+        "image_count": 0,
+        "has_images": false,
+        "produto_id": "MLB37822949",
+        "produto_titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+        "produto_url": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949"
+      },
+      {
+        "review_number": 49,
+        "rating": 5,
+        "date": "08 out. 2025",
+        "text": "Atende perfeitamente.",
+        "likes": 0,
+        "images": [],
+        "image_count": 0,
+        "has_images": false,
+        "produto_id": "MLB37822949",
+        "produto_titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+        "produto_url": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949"
+      },
+      {
+        "review_number": 50,
+        "rating": 5,
+        "date": "07 out. 2025",
+        "text": "Bom.",
+        "likes": 0,
+        "images": [],
+        "image_count": 0,
+        "has_images": false,
+        "produto_id": "MLB37822949",
+        "produto_titulo": "Cartucho Hp 667xl Preto 8,5ml | Frete grátis",
+        "produto_url": "https://www.mercadolivre.com.br/cartucho-hp-667xl-preto-85ml/p/MLB37822949"
+      }
+    ],
+    "ai_summary": {
+      "summary": null,
+      "likes": 0,
+      "available": false
+    },
+    "characteristics_ratings": {}
+  }
+}
